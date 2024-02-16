@@ -1,5 +1,3 @@
-# CS190B-F23-FinalProject
-
 ## Project Description
 As college students, maintaining a healthy lifestyle is challenging since many of us are busy with classes, social activities, lack nutritional awareness, and the process of tracking daily caloric and nutritional intake is often too tedious to track. As a result, we find ourselves, like many college students making suboptimal decisions about meals leading to health issues and nutritional deficiency. 
 
@@ -49,6 +47,3 @@ python nutriscanner_server.py
 [Load Cell](https://www.youtube.com/watch?v=sxzoAGf1kOo&t=2s&ab_channel=Indrek)
 
 [3D Printed Parts](https://www.thingiverse.com/thing:4602226)
-
-## Acknowledgments
-Thank you to Professor Krintz and the TAs for their support.
